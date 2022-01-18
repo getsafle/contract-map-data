@@ -1,0 +1,33 @@
+{
+  "name": "contract-map-data",
+  "version": "1.0.0",
+  "description": "Getsafle token contract metadata ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getsafle/contract-map-data.git"
+  },
+  "author": "getsafle",
+  "contributors": [
+    {
+      "name": "Shubham",
+      "email": "shubham@getsafle.com"
+    },
+    {
+      "name": "Apoorv",
+      "email": "apoorv@getsafle.com"
+    },
+    {
+      "name": "Arjun",
+      "email": "arjun@getsafle.com"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getsafle/contract-map-data/issues"
+  },
+  "homepage": "https://github.com/getsafle/contract-map-data#readme"
+}
