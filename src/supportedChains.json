@@ -1,5 +1,5 @@
 {
     "chains": [
-    "ethereum"
+    "ethereum", "polygon"
 ]
 }

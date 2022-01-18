@@ -1,0 +1,131 @@
+{
+    "SINGLE_CALL_BALANCES_ADDRESS": "0x38a2718e3dff5faee56416ba0b14aae8eb803c22",
+    "CONTRACT_MAP": {
+    "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619": {
+        "name": "Wrapped Ether",
+        "logo": "https://wallet-asset.matic.network/img/tokens/eth.svg",
+        "erc20": true,
+        "symbol": "WETH",
+        "decimals": 18
+    },
+    "0x0000000000000000000000000000000000001010": {
+        "name": "Matic Token",
+        "logo": "https://wallet-asset.matic.network/img/tokens/matic.svg",
+        "erc20": true,
+        "symbol": "MATIC",
+        "decimals": 18
+    },
+    "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
+        "name": "USD Coin",
+        "logo": "https://wallet-asset.matic.network/img/tokens/usdc.svg",
+        "erc20": true,
+        "symbol": "USDC",
+        "decimals": 6
+    },
+    "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
+        "name": "Tether USD",
+        "logo": "https://wallet-asset.matic.network/img/tokens/usdt.svg",
+        "erc20": true,
+        "symbol": "USDT",
+        "decimals": 6
+    },
+    "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063": {
+        "name": "Dai Stablecoin",
+        "logo": "https://wallet-asset.matic.network/img/tokens/dai.svg",
+        "erc20": true,
+        "symbol": "DAI",
+        "decimals": 18
+    },
+    "0xd6df932a45c0f255f85145f286ea0b292b21c90b": {
+        "name": "Aave",
+        "logo": "https://wallet-asset.matic.network/img/tokens/aave.svg",
+        "erc20": true,
+        "symbol": "AAVE",
+        "decimals": 18
+    },
+    "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39": {
+        "name": "ChainLink Token",
+        "logo": "https://wallet-asset.matic.network/img/tokens/link.svg",
+        "erc20": true,
+        "symbol": "LINK",
+        "decimals": 18
+    },
+    "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6": {
+        "name": "Wrapped BTC",
+        "logo": "https://wallet-asset.matic.network/img/tokens/wbtc.svg",
+        "erc20": true,
+        "symbol": "WBTC",
+        "decimals": 8
+    },
+    "0xb33eaad8d922b1083446dc23f610c2567fb5180f": {
+        "name": "Uniswap",
+        "logo": "https://wallet-asset.matic.network/img/tokens/uni.svg",
+        "erc20": true,
+        "symbol": "UNI",
+        "decimals": 18
+    },
+    "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a": {
+        "name": "SushiToken",
+        "logo": "https://wallet-asset.matic.network/img/tokens/sushi.svg",
+        "erc20": true,
+        "symbol": "SUSHI",
+        "decimals": 18
+    },
+    "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f": {
+        "name": "Quickswap",
+        "logo": "https://wallet-asset.matic.network/img/tokens/quick.svg",
+        "erc20": true,
+        "symbol": "QUICK",
+        "decimals": 18
+    },
+    "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7": {
+        "name": "Aavegotchi GHST Token",
+        "logo": "https://polygonscan.com/token/images/aavegotchighst_32.png",
+        "erc20": true,
+        "symbol": "GHST",
+        "decimals": 18
+    },
+    "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32": {
+        "name": "Telcoin",
+        "logo": "https://wallet-asset.matic.network/img/tokens/tel.svg",
+        "erc20": true,
+        "symbol": "TEL",
+        "decimals": 2
+    },
+    "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3": {
+        "name": "Balancer",
+        "logo": "https://wallet-asset.matic.network/img/tokens/bal.svg",
+        "erc20": true,
+        "symbol": "BAL",
+        "decimals": 18
+    },
+    "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a": {
+        "name": "EthermonToken",
+        "logo": "https://polygonscan.com/token/images/ethermontoken2_32.png",
+        "erc20": true,
+        "symbol": "EMON",
+        "decimals": 18
+    },
+    "0x6ddb31002abc64e1479fc439692f7ea061e78165": {
+        "name": "Furucombo",
+        "logo": "https://polygonscan.com/token/images/furucombo_32.png",
+        "erc20": true,
+        "symbol": "COMBO",
+        "decimals": 18
+    },
+    "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7": {
+        "name": "Binance USD",
+        "logo": "https://wallet-asset.matic.network/img/tokens/busd.svg",
+        "erc20": true,
+        "symbol": "BUSD",
+        "decimals": 18
+    },
+    "0x04b33078ea1aef29bf3fb29c6ab7b200c58ea126": {
+        "name": "Safle",
+        "logo": "https://polygonscan.com/token/images/getsafle_32.png",
+        "erc20": true,
+        "symbol": "SAFLE",
+        "decimals": 18
+    }
+}
+}
