@@ -6,7 +6,7 @@ name: Js Package
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - package.json
       - CHANGELOG
